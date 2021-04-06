@@ -1,5 +1,5 @@
 ### Hi there, im David. Im a technology enthuasiast from Germany. Welcome to my profile. 👋
-- 📖 I'm currently reading a lot about CyberSecurity and ML.
+- 📖 I'm currently reading about CyberSecurity and ML.
 - 🌱 I’m currently learning Python & JS.
 - 👵 I'm currently working on building a Snake Game.
 - ⚡ Fun fact: I eat way too much skyr.
